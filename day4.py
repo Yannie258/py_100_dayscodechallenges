@@ -1,0 +1,8 @@
+hobby = input("What is your hobby? ")
+print("\033[32m My hobby is " + hobby)
+hate= input("what do you hate")
+print("I hate", hate)
+nameFamily=input("what is your family name")
+print("my family is", nameFamily)
+print()
+print("I like", hobby, "and I hate", hate, "and my family is", nameFamily)

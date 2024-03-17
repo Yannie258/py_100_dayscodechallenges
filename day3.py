@@ -1,0 +1,11 @@
+nameFood= input("input name of food:")
+print("Name a food",nameFood)
+namePlant= input("input name of plant:")
+print("name of plant",namePlant)
+nameMethod= input("input name of method:")
+print("name of method", nameMethod)
+nameBurned= input("input name of burned:")
+print("name of burned", nameBurned)
+nameItem= input("input name of item:")
+print("name item", nameItem)
+      

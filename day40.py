@@ -1,0 +1,12 @@
+name= input("Input your name: > ")
+print()
+birth = input("Input your birthday: > ")
+print()
+tel= input("Input your telephone number: > ")
+print()
+email= input("Input your email: > ")
+print()
+address= input("Input your address: > ")
+print()
+contact = {"name": name, "birth": birth, "tel": tel, "email":email,"address": address}
+print(f"""Hi {contact['name'].strip()}. Our dictionary says that you were born on {contact['birth']}, we can call you on {contact['tel'].strip()}, email {contact['email']}, or write to {contact['address'].strip()}""")
