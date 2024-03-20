@@ -1,0 +1,7 @@
+[['test', '4', 'low']]
+[['test', '4', 'low']]
+[['test', '4', 'low'], ['do', '4', 'high']]
+[['test', '4', 'low'], ['do', '4', 'high']]
+[['do', 'high', '4']]
+[['do', 'high', '4'], ['hat', 'low', '5']]
+[['do', 'high', '4'], ['hat', 'low', '5']]
